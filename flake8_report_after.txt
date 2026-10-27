@@ -1,0 +1,7 @@
+bike_share_stations.py:8:80: E501 line too long (84 > 79 characters)
+bike_share_stations.py:15:80: E501 line too long (81 > 79 characters)
+bike_share_stations.py:23:80: E501 line too long (91 > 79 characters)
+bike_share_stations.py:25:80: E501 line too long (89 > 79 characters)
+bike_share_stations.py:37:80: E501 line too long (90 > 79 characters)
+bike_share_stations.py:44:80: E501 line too long (81 > 79 characters)
+bike_share_stations.py:51:80: E501 line too long (91 > 79 characters)
